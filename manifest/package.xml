@@ -2,6 +2,9 @@
     <version>64.0</version>
     <types>
         <members>A0</members>
+        <members>A00</members>
+        <members>AccountHelper</members>
+        <members>AccountHelperTest</members>
         <name>ApexClass</name>
     </types>
 </Package>
