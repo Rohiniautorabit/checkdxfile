@@ -1,10 +1,21 @@
 {
   "packageDirectories" : [ {
     "path" : "force-app",
-    "default" : true
+    "default" : false
+  }, {
+    "path" : "sdfsd",
+    "default" : true,
+    "package" : "sdfsd",
+    "scopeProfiles" : "false",
+    "versionName" : "sdfsd",
+    "versionNumber" : "1.0.0.0"
   } ],
   "namespace" : "",
   "sfdcLoginUrl" : "https://login.salesforce.com",
   "sourceApiVersion" : "64.0",
+  "packageAliases" : {
+    "sdfsd" : "0HoPl00000VYu7ZKAT",
+    "sdfsd@1.0.0.0" : "04tPl000000ULtRIAW"
+  },
   "name" : "src"
 }
